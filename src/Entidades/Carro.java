@@ -9,9 +9,7 @@ public class Carro {
 	private String cor;
 	private String chassi;
 	private int qdtEstoque;
-	private int id_carro;
-        private int porta;
-	
+	private int id_carro;	
 	
 	public double getValor() {
 		return valor;
