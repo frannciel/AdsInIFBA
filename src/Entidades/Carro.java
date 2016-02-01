@@ -10,7 +10,7 @@ public class Carro {
 	private String chassi;
 	private int qdtEstoque;
 	private int id_carro;	
-        kkkkkkkkkkk
+       // kkkkkkkkkkk
 	
 	public double getValor() {
 		return valor;
