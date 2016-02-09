@@ -1,4 +1,4 @@
-package com.algaworks.financeiro.model;
+package com.algaworks.financeiro;
 
 import javax.persistence.Persistence;
 
